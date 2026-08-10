@@ -17,3 +17,6 @@ npm run dev
 - כדי להוסיף תמונה למנה, מחליפים את `image: null` בנתיב לדוגמה: `image: "/images/dishes/kebab.jpg"`.
 
 האתר מוגדר כרגע להצגת תפריט ללא מחירים.
+
+
+https://peace-restaurant-menu.vercel.app/
