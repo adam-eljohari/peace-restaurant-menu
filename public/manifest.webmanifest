@@ -1,0 +1,19 @@
+{
+  "name": "מסעדת השלום — תפריט",
+  "short_name": "השלום",
+  "description": "התפריט הדיגיטלי של מסעדת השלום",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f0e7",
+  "theme_color": "#17221b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
